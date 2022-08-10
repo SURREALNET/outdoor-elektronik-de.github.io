@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/k-r", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/k-r-kartenmesser-kunststoff-k-r-5637189609.jpg":"\u002Fassets\u002Fimages\u002Fk-r-kartenmesser-kunststoff-k-r-5637189609.webp"}}],fetch:{},mutations:void 0});

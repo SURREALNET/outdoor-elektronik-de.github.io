@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/outdoor-uhren", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/casio-pro-trek-prg-270-1er-longs-peak-outdoor-uhr-casio-pro-trek-5637245059.jpg":"\u002Fassets\u002Fimages\u002Fcasio-pro-trek-prg-270-1er-longs-peak-outdoor-uhr-casio-pro-trek-5637245059.webp"}}],fetch:{},mutations:void 0});
