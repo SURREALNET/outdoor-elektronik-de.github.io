@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/ortlieb", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ortlieb-safe-it-wertsachenaufbewahrung-ortlieb-5637260164.jpg":"\u002Fassets\u002Fimages\u002Fortlieb-safe-it-wertsachenaufbewahrung-ortlieb-5637260164.webp"}}],fetch:{},mutations:void 0});

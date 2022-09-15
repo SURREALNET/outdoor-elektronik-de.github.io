@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/coghlans", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/coghlans-taschenkompass-kompass-coghlans-5637249517.jpg":"\u002Fassets\u002Fimages\u002Fcoghlans-taschenkompass-kompass-coghlans-5637249517.webp"}}],fetch:{},mutations:void 0});
