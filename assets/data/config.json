@@ -14,9 +14,23 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": ["5637952786", "5637209961", "5637456488"],
-    "winnerProducts": ["5637670335", "5637245059", "5637209977"],
-    "featuredCategories": ["Smartwatches", "Outdoor-Uhren", "Kompass und Orientierung", "GPS-Zubehör", "Ferngläser und Spektive"],
+    "popularProducts": [
+        "5637952786",
+        "5637209961",
+        "5637456488"
+    ],
+    "winnerProducts": [
+        "5637670335",
+        "5637245059",
+        "5637209977"
+    ],
+    "featuredCategories": [
+        "Smartwatches",
+        "Outdoor-Uhren",
+        "Kompass und Orientierung",
+        "GPS-Zubehör",
+        "Ferngläser und Spektive"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -34,8 +48,39 @@
             "title": "Outdoor Elektronik Shop",
             "metaDescription": "Online Shop für Outdoor Elektronik. GPS Geräte, Ferngläser, Kompassen, Uhren und mehr. Schnelle Lieferung und günstige Preise. Artikel auf Lager.",
             "robots": "index, follow",
-            "texts": [
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor-Elektronik",
+                        "text": "Herzlich willkommen auf unserer Online-Plattform für Outdoor-Elektronik. Wir sind stolz darauf, Ihnen eine breite Palette an hochwertigen Geräten für Ihre Outdoor-Abenteuer anbieten zu können.     Von Ferngläsern und Spektiven für klare Sicht, über GPS-Geräte für die Orientierung im Gelände, bis hin zu Smartwatches und Outdoor-Uhren für die Überwachung Ihrer Aktivitäten - wir haben alles, was Sie benötigen.     Darüber hinaus bieten wir auch eine breite Auswahl an Zubehör für Ihre GPS-Geräte, wie Kompasse und Orientierungs-Tools, um Ihnen eine reibungslose und erfolgreiche Outdoor-Erfahrung zu ermöglichen.    Unsere Produkte sind von höchster Qualität und werden von führenden Marken hergestellt, um Ihnen eine zuverlässige und langlebige Leistung zu garantieren.    Stöbern Sie durch unsere Kategorien und entdecken Sie die besten Geräte für Ihre nächste Outdoor-Expedition. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung und unterstützen Sie gerne bei der Wahl des richtigen Geräts für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Ferngläser und Spektive",
+                        "text": "Entdecken Sie die Welt mit hochwertigen Ferngläsern und Spektiven von Outdoor Elektronik. Unsere Produkte zeichnen sich durch hervorragende Bildqualität, hohe Vergrößerung und robuste Bauweise aus. Ob für die Vogelbeobachtung oder für den Einsatz im Gelände - wir bieten Ihnen das passende Fernglas oder Spektiv für jede Anforderung. Überzeugen Sie sich selbst von unserer umfangreichen Auswahl an Ferngläsern und Spektiven und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Smartwatches",
+                        "text": "Bleiben Sie immer verbunden mit den hochmodernen <a href=\"/kategorie/smartwatches/\" title=\"Smartwatches\">Smartwatches</a> von Outdoor Elektronik. Unsere Smartwatches bieten Ihnen eine Vielzahl an Funktionen wie GPS, Herzfrequenzmessung, Fitness-Tracking und vieles mehr. Entdecken Sie die neueste Technologie im Bereich der Wearables und wählen Sie die Smartwatch, die perfekt zu Ihren Bedürfnissen passt. Bestellen Sie jetzt Ihre neue Smartwatch bei Outdoor Elektronik."
+                    },
+                    {
+                        "title": "GPS-Geräte",
+                        "text": "Erkunden Sie die Welt mit den zuverlässigen <a href=\"/kategorie/gps-geraete/\" title=\"GPS-Geräte\">GPS-Geräte</a>n von Outdoor Elektronik. Unsere Geräte bieten Ihnen höchste Präzision und einfache Bedienbarkeit. Ob für Wandern, Radfahren oder andere Outdoor-Aktivitäten - mit unseren GPS-Geräten sind Sie immer auf dem richtigen Weg. Entdecken Sie jetzt unser umfangreiches Angebot an GPS-Geräten und bestellen Sie bequem online bei Outdoor Elektronik."
+                    },
+                    {
+                        "title": "Outdoor-Uhren",
+                        "text": "Erleben Sie Abenteuer mit den robusten <a href=\"/kategorie/outdoor-uhren/\" title=\"Outdoor-Uhren\">Outdoor-Uhren</a> von Outdoor Elektronik. Unsere Uhren sind wasserdicht und besitzen viele nützliche Funktionen wie GPS, Barometer und Kompass. Ob beim Wandern, Radfahren oder Klettern - mit einer Outdoor-Uhr von Outdoor Elektronik sind Sie immer bestens ausgestattet. Entdecken Sie jetzt unser breites Angebot an Outdoor-Uhren und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Kompass und Orientierung",
+                        "text": "Finden Sie immer den richtigen Weg mit dem hochwertigen Zubehör für <a href=\"/kategorie/kompass-und-orientierung/\" title=\"Kompass und Orientierung\">Kompass und Orientierung</a> von Outdoor Elektronik. Unsere Produkte bieten Ihnen höchste Präzision und einfache Handhabung. Ob für die Navigation im Gelände oder für den Einsatz auf See - wir bieten Ihnen das passende Zubehör für jede Herausforderung. Entdecken Sie jetzt unser umfangreiches Angebot an Kompassen und Orientierungszubehör und bestellen Sie bequem online bei Outdoor Elektronik."
+                    },
+                    {
+                        "title": "GPS-Zubehör",
+                        "text": "Optimieren Sie Ihre GPS-Nutzung mit dem praktischen Zubehör von Outdoor Elektronik. Unsere Produkte bieten Ihnen eine einfache und sichere Befestigung Ihres GPS-Geräts sowie zusätzliche Funktionen wie eine Stromversorgung über den Akku. Entdecken Sie jetzt unser umfangreiches Angebot an <a href=\"/kategorie/gps-zubehoer/\" title=\"GPS-Zubehör\">GPS-Zubehör</a> und bestellen Sie bequem online bei Outdoor Elektronik."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Outdoor Elektronik Kategorie Übersicht",
@@ -52,55 +97,63 @@
         "defaultTitle": "$PRODUKT",
         "defaultMetaDescription": "$PRODUKT vom Anbieter $HERSTELLER findest du günstig in unserem Shop für Outdoor Elektronik. $PRODUKT ist auf Lager und wird schnell geliefert.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE ",
         "defaultMetaDescription": "Top $KATEGORIE Produkte in unserem Shop für Outdoor Elektronik kaufen. Produkte sind sofort verfügbar. Top Preise und Top Qualität.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER günstig kaufen",
         "defaultMetaDescription": "Outdoor Elektronik Produkte von $HERSTELLER günstig bei uns im Store bestellen. Top Qualität und beste Preise im Netz.",
         "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Outdoor Elektronik",
