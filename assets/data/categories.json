@@ -1,1 +1,44 @@
-[{"key": "ferngläser und spektive", "name": "Ferngläser und Spektive", "slug": "fernglaeser-und-spektive", "productCategory": "Ferngläser und Spektive", "subCategories": []}, {"key": "smartwatches", "name": "Smartwatches", "slug": "smartwatches", "productCategory": "Smartwatches", "subCategories": []}, {"key": "gps-geräte", "name": "GPS-Geräte", "slug": "gps-geraete", "productCategory": "GPS-Geräte", "subCategories": []}, {"key": "outdoor-uhren", "name": "Outdoor-Uhren", "slug": "outdoor-uhren", "productCategory": "Outdoor-Uhren", "subCategories": []}, {"key": "kompass und orientierung", "name": "Kompass und Orientierung", "slug": "kompass-und-orientierung", "productCategory": "Kompass und Orientierung", "subCategories": []}, {"key": "gps-zubehör", "name": "GPS-Zubehör", "slug": "gps-zubehoer", "productCategory": "GPS-Zubehör", "subCategories": []}]
+[
+    {
+        "key": "ferngläser und spektive",
+        "name": "Ferngläser und Spektive",
+        "slug": "fernglaeser-und-spektive",
+        "productCategory": "Ferngläser und Spektive",
+        "subCategories": []
+    },
+    {
+        "key": "smartwatches",
+        "name": "Smartwatches",
+        "slug": "smartwatches",
+        "productCategory": "Smartwatches",
+        "subCategories": []
+    },
+    {
+        "key": "gps-geräte",
+        "name": "GPS-Geräte",
+        "slug": "gps-geraete",
+        "productCategory": "GPS-Geräte",
+        "subCategories": []
+    },
+    {
+        "key": "outdoor-uhren",
+        "name": "Outdoor-Uhren",
+        "slug": "outdoor-uhren",
+        "productCategory": "Outdoor-Uhren",
+        "subCategories": []
+    },
+    {
+        "key": "kompass und orientierung",
+        "name": "Kompass und Orientierung",
+        "slug": "kompass-und-orientierung",
+        "productCategory": "Kompass und Orientierung",
+        "subCategories": []
+    },
+    {
+        "key": "gps-zubehör",
+        "name": "GPS-Zubehör",
+        "slug": "gps-zubehoer",
+        "productCategory": "GPS-Zubehör",
+        "subCategories": []
+    }
+]
