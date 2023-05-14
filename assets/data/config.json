@@ -1,217 +1,224 @@
 {
-  "configIsReady": true,
-  "domain": "outdoor-elektronik.de",
-  "hostname": "https://www.outdoor-elektronik.de",
-  "email": "outdoor-elektronik.de@surrealnetworks.io",
-  "organization": "outdoor-elektronik.de",
-  "logoText": "outdoor-elektronik.de",
-  "title": "Outdoor Elektronik",
-  "subline": "Elektronik für den Outdoor Bereich",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637952786",
-    "5637209961",
-    "5637456488"
-  ],
-  "winnerProducts": [
-    "5637670335",
-    "5637245059",
-    "5637209977"
-  ],
-  "featuredCategories": [
-    "Smartwatches",
-    "Outdoor-Uhren",
-    "Kompass und Orientierung",
-    "GPS-Zubehör",
-    "Ferngläser und Spektive"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Funktionen",
-    "Akkulaufzeiten",
-    "Wasserbeständigkeit",
-    "IP Schutzklasse",
-    "Langlebigkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Outdoor Elektronik",
-    "featureText": "<p class=\"mb-4\">Elektronik für den Outdoor Bereich</p><p>In unserem Store findet ihr Elektronik für den Outdoor Bereich, damit ihr gut gerüstet seit beim Camping, Wandern oder Trekking.<p><p>Unsere Produkte reichen von Ferngläsern und Spektiven über GPS-Geräte bis hin zu Outdoor-Uhren und Kompassen.</p><p>Wir achten sehr auf die Robustheit und Funktionsfähigkeit der Geräte, damit man nicht im Stich gelassen wird und du dein Abenteuer mit Freude begegnen kannst. Jegliches Produkt unterliegt folgenden Testskriterien:</p>",
-    "index": {
-      "title": "Outdoor Elektronik Shop",
-      "metaDescription": "Online Shop für Outdoor Elektronik. GPS Geräte, Ferngläser, Kompassen, Uhren und mehr. Schnelle Lieferung und günstige Preise. Artikel auf Lager.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Outdoor-Elektronik",
-            "text": "Herzlich willkommen auf unserer Online-Plattform für Outdoor-Elektronik. Wir sind stolz darauf, Ihnen eine breite Palette an hochwertigen Geräten für Ihre Outdoor-Abenteuer anbieten zu können.     Von Ferngläsern und Spektiven für klare Sicht, über GPS-Geräte für die Orientierung im Gelände, bis hin zu Smartwatches und Outdoor-Uhren für die Überwachung Ihrer Aktivitäten - wir haben alles, was Sie benötigen.     Darüber hinaus bieten wir auch eine breite Auswahl an Zubehör für Ihre GPS-Geräte, wie Kompasse und Orientierungs-Tools, um Ihnen eine reibungslose und erfolgreiche Outdoor-Erfahrung zu ermöglichen.    Unsere Produkte sind von höchster Qualität und werden von führenden Marken hergestellt, um Ihnen eine zuverlässige und langlebige Leistung zu garantieren.    Stöbern Sie durch unsere Kategorien und entdecken Sie die besten Geräte für Ihre nächste Outdoor-Expedition. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung und unterstützen Sie gerne bei der Wahl des richtigen Geräts für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Ferngläser und Spektive",
-            "text": "Entdecken Sie die Welt mit hochwertigen Ferngläsern und Spektiven von Outdoor Elektronik. Unsere Produkte zeichnen sich durch hervorragende Bildqualität, hohe Vergrößerung und robuste Bauweise aus. Ob für die Vogelbeobachtung oder für den Einsatz im Gelände - wir bieten Ihnen das passende Fernglas oder Spektiv für jede Anforderung. Überzeugen Sie sich selbst von unserer umfangreichen Auswahl an Ferngläsern und Spektiven und bestellen Sie bequem online."
-          },
-          {
-            "title": "Smartwatches",
-            "text": "Bleiben Sie immer verbunden mit den hochmodernen <a href=\"/kategorie/smartwatches/\" title=\"Smartwatches\">Smartwatches</a> von Outdoor Elektronik. Unsere Smartwatches bieten Ihnen eine Vielzahl an Funktionen wie GPS, Herzfrequenzmessung, Fitness-Tracking und vieles mehr. Entdecken Sie die neueste Technologie im Bereich der Wearables und wählen Sie die Smartwatch, die perfekt zu Ihren Bedürfnissen passt. Bestellen Sie jetzt Ihre neue Smartwatch bei Outdoor Elektronik."
-          },
-          {
-            "title": "GPS-Geräte",
-            "text": "Erkunden Sie die Welt mit den zuverlässigen <a href=\"/kategorie/gps-geraete/\" title=\"GPS-Geräte\">GPS-Geräte</a>n von Outdoor Elektronik. Unsere Geräte bieten Ihnen höchste Präzision und einfache Bedienbarkeit. Ob für Wandern, Radfahren oder andere Outdoor-Aktivitäten - mit unseren GPS-Geräten sind Sie immer auf dem richtigen Weg. Entdecken Sie jetzt unser umfangreiches Angebot an GPS-Geräten und bestellen Sie bequem online bei Outdoor Elektronik."
-          },
-          {
-            "title": "Outdoor-Uhren",
-            "text": "Erleben Sie Abenteuer mit den robusten <a href=\"/kategorie/outdoor-uhren/\" title=\"Outdoor-Uhren\">Outdoor-Uhren</a> von Outdoor Elektronik. Unsere Uhren sind wasserdicht und besitzen viele nützliche Funktionen wie GPS, Barometer und Kompass. Ob beim Wandern, Radfahren oder Klettern - mit einer Outdoor-Uhr von Outdoor Elektronik sind Sie immer bestens ausgestattet. Entdecken Sie jetzt unser breites Angebot an Outdoor-Uhren und bestellen Sie bequem online."
-          },
-          {
-            "title": "Kompass und Orientierung",
-            "text": "Finden Sie immer den richtigen Weg mit dem hochwertigen Zubehör für <a href=\"/kategorie/kompass-und-orientierung/\" title=\"Kompass und Orientierung\">Kompass und Orientierung</a> von Outdoor Elektronik. Unsere Produkte bieten Ihnen höchste Präzision und einfache Handhabung. Ob für die Navigation im Gelände oder für den Einsatz auf See - wir bieten Ihnen das passende Zubehör für jede Herausforderung. Entdecken Sie jetzt unser umfangreiches Angebot an Kompassen und Orientierungszubehör und bestellen Sie bequem online bei Outdoor Elektronik."
-          },
-          {
-            "title": "GPS-Zubehör",
-            "text": "Optimieren Sie Ihre GPS-Nutzung mit dem praktischen Zubehör von Outdoor Elektronik. Unsere Produkte bieten Ihnen eine einfache und sichere Befestigung Ihres GPS-Geräts sowie zusätzliche Funktionen wie eine Stromversorgung über den Akku. Entdecken Sie jetzt unser umfangreiches Angebot an <a href=\"/kategorie/gps-zubehoer/\" title=\"GPS-Zubehör\">GPS-Zubehör</a> und bestellen Sie bequem online bei Outdoor Elektronik."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "outdoor-elektronik.de",
+    "hostname": "https://www.outdoor-elektronik.de",
+    "email": "outdoor-elektronik.de@surrealnetworks.io",
+    "organization": "outdoor-elektronik.de",
+    "logoText": "outdoor-elektronik.de",
+    "title": "Outdoor Elektronik",
+    "subline": "Elektronik für den Outdoor Bereich",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637952786",
+        "5637209961",
+        "5637456488"
+    ],
+    "winnerProducts": [
+        "5637670335",
+        "5637245059",
+        "5637209977"
+    ],
+    "featuredCategories": [
+        "Smartwatches",
+        "Outdoor-Uhren",
+        "Kompass und Orientierung",
+        "GPS-Zubehör",
+        "Ferngläser und Spektive"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Funktionen",
+        "Akkulaufzeiten",
+        "Wasserbeständigkeit",
+        "IP Schutzklasse",
+        "Langlebigkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoor Elektronik",
+        "featureText": "<p class=\"mb-4\">Elektronik für den Outdoor Bereich</p><p>In unserem Store findet ihr Elektronik für den Outdoor Bereich, damit ihr gut gerüstet seit beim Camping, Wandern oder Trekking.<p><p>Unsere Produkte reichen von Ferngläsern und Spektiven über GPS-Geräte bis hin zu Outdoor-Uhren und Kompassen.</p><p>Wir achten sehr auf die Robustheit und Funktionsfähigkeit der Geräte, damit man nicht im Stich gelassen wird und du dein Abenteuer mit Freude begegnen kannst. Jegliches Produkt unterliegt folgenden Testskriterien:</p>",
+        "index": {
+            "title": "Outdoor Elektronik Shop",
+            "metaDescription": "Online Shop für Outdoor Elektronik. GPS Geräte, Ferngläser, Kompassen, Uhren und mehr. Schnelle Lieferung und günstige Preise. Artikel auf Lager.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor-Elektronik",
+                        "text": "Herzlich willkommen auf unserer Online-Plattform für Outdoor-Elektronik. Wir sind stolz darauf, Ihnen eine breite Palette an hochwertigen Geräten für Ihre Outdoor-Abenteuer anbieten zu können.     Von Ferngläsern und Spektiven für klare Sicht, über GPS-Geräte für die Orientierung im Gelände, bis hin zu Smartwatches und Outdoor-Uhren für die Überwachung Ihrer Aktivitäten - wir haben alles, was Sie benötigen.     Darüber hinaus bieten wir auch eine breite Auswahl an Zubehör für Ihre GPS-Geräte, wie Kompasse und Orientierungs-Tools, um Ihnen eine reibungslose und erfolgreiche Outdoor-Erfahrung zu ermöglichen.    Unsere Produkte sind von höchster Qualität und werden von führenden Marken hergestellt, um Ihnen eine zuverlässige und langlebige Leistung zu garantieren.    Stöbern Sie durch unsere Kategorien und entdecken Sie die besten Geräte für Ihre nächste Outdoor-Expedition. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung und unterstützen Sie gerne bei der Wahl des richtigen Geräts für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Ferngläser und Spektive",
+                        "text": "Entdecken Sie die Welt mit hochwertigen Ferngläsern und Spektiven von Outdoor Elektronik. Unsere Produkte zeichnen sich durch hervorragende Bildqualität, hohe Vergrößerung und robuste Bauweise aus. Ob für die Vogelbeobachtung oder für den Einsatz im Gelände - wir bieten Ihnen das passende Fernglas oder Spektiv für jede Anforderung. Überzeugen Sie sich selbst von unserer umfangreichen Auswahl an Ferngläsern und Spektiven und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Smartwatches",
+                        "text": "Bleiben Sie immer verbunden mit den hochmodernen <a href=\"/kategorie/smartwatches/\" title=\"Smartwatches\">Smartwatches</a> von Outdoor Elektronik. Unsere Smartwatches bieten Ihnen eine Vielzahl an Funktionen wie GPS, Herzfrequenzmessung, Fitness-Tracking und vieles mehr. Entdecken Sie die neueste Technologie im Bereich der Wearables und wählen Sie die Smartwatch, die perfekt zu Ihren Bedürfnissen passt. Bestellen Sie jetzt Ihre neue Smartwatch bei Outdoor Elektronik."
+                    },
+                    {
+                        "title": "GPS-Geräte",
+                        "text": "Erkunden Sie die Welt mit den zuverlässigen <a href=\"/kategorie/gps-geraete/\" title=\"GPS-Geräte\">GPS-Geräte</a>n von Outdoor Elektronik. Unsere Geräte bieten Ihnen höchste Präzision und einfache Bedienbarkeit. Ob für Wandern, Radfahren oder andere Outdoor-Aktivitäten - mit unseren GPS-Geräten sind Sie immer auf dem richtigen Weg. Entdecken Sie jetzt unser umfangreiches Angebot an GPS-Geräten und bestellen Sie bequem online bei Outdoor Elektronik."
+                    },
+                    {
+                        "title": "Outdoor-Uhren",
+                        "text": "Erleben Sie Abenteuer mit den robusten <a href=\"/kategorie/outdoor-uhren/\" title=\"Outdoor-Uhren\">Outdoor-Uhren</a> von Outdoor Elektronik. Unsere Uhren sind wasserdicht und besitzen viele nützliche Funktionen wie GPS, Barometer und Kompass. Ob beim Wandern, Radfahren oder Klettern - mit einer Outdoor-Uhr von Outdoor Elektronik sind Sie immer bestens ausgestattet. Entdecken Sie jetzt unser breites Angebot an Outdoor-Uhren und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Kompass und Orientierung",
+                        "text": "Finden Sie immer den richtigen Weg mit dem hochwertigen Zubehör für <a href=\"/kategorie/kompass-und-orientierung/\" title=\"Kompass und Orientierung\">Kompass und Orientierung</a> von Outdoor Elektronik. Unsere Produkte bieten Ihnen höchste Präzision und einfache Handhabung. Ob für die Navigation im Gelände oder für den Einsatz auf See - wir bieten Ihnen das passende Zubehör für jede Herausforderung. Entdecken Sie jetzt unser umfangreiches Angebot an Kompassen und Orientierungszubehör und bestellen Sie bequem online bei Outdoor Elektronik."
+                    },
+                    {
+                        "title": "GPS-Zubehör",
+                        "text": "Optimieren Sie Ihre GPS-Nutzung mit dem praktischen Zubehör von Outdoor Elektronik. Unsere Produkte bieten Ihnen eine einfache und sichere Befestigung Ihres GPS-Geräts sowie zusätzliche Funktionen wie eine Stromversorgung über den Akku. Entdecken Sie jetzt unser umfangreiches Angebot an <a href=\"/kategorie/gps-zubehoer/\" title=\"GPS-Zubehör\">GPS-Zubehör</a> und bestellen Sie bequem online bei Outdoor Elektronik."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Outdoor Elektronik Kategorie Übersicht",
+            "metaDescription": "Alle Outdoor Elektronik Kategorien im Überblick. Alle Artikel sind auf Lager. Best-Preis-Garantie. Online bestellen.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Hersteller für Outdoor Elektronik",
+            "metaDescription": "Outdoor Elektronik sortiert nach Herstellern. Marken wie Garmin, Brunton, Ortlieb, Steiner, Suunto und Casio Pro Tek. Produkte auf Lager. Jetzt bestellen.",
+            "robots": ""
+        }
     },
-    "shop": {
-      "title": "Outdoor Elektronik Kategorie Übersicht",
-      "metaDescription": "Alle Outdoor Elektronik Kategorien im Überblick. Alle Artikel sind auf Lager. Best-Preis-Garantie. Online bestellen.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Alle Hersteller für Outdoor Elektronik",
-      "metaDescription": "Outdoor Elektronik sortiert nach Herstellern. Marken wie Garmin, Brunton, Ortlieb, Steiner, Suunto und Casio Pro Tek. Produkte auf Lager. Jetzt bestellen.",
-      "robots": ""
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "$PRODUKT vom Anbieter $HERSTELLER findest du günstig in unserem Shop für Outdoor Elektronik. $PRODUKT ist auf Lager und wird schnell geliefert.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5637245059",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "$PRODUKT vom Anbieter $HERSTELLER findest du günstig in unserem Shop für Outdoor Elektronik. $PRODUKT ist auf Lager und wird schnell geliefert.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr",
-              "text": "<p class=\"justify\">Die Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr ist eine ideale Wahl für Outdoor-Enthusiasten und Abenteurer. Diese innovative Uhr bietet eine Fülle von Funktionen, die speziell entwickelt wurden, um die Anforderungen von Outdoor-Aktivitäten wie Wandern, Bergsteigen und Camping zu erfüllen. Das robuste Design der Uhr, gepaart mit der beeindruckenden Technologie von Casio, macht sie zu einer zuverlässigen Wegbegleiterin für alle Ihre Abenteuer.</p><p class=\"justify\">Die PRG-270-1ER LONGS PEAK ist mit einer Vielzahl nützlicher Funktionen ausgestattet, darunter ein integrierter Kompass, ein Höhenmesser, ein Barometer und ein Thermometer. Diese praktischen Funktionen ermöglichen es Ihnen, Ihren Standort präzise zu bestimmen, die Höhe und den Luftdruck zu messen und die Temperatur in Echtzeit abzulesen, sodass Sie bestens auf alle Eventualitäten vorbereitet sind. Darüber hinaus verfügt die Uhr über eine Solarzellenfunktion, die eine umweltfreundliche und praktische Energieversorgung gewährleistet.</p><p class=\"justify\">Die Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr ist nicht nur funktional, sondern auch äußerst langlebig und widerstandsfähig. Das stoßfeste Gehäuse und das kratzfeste Mineralglas schützen die Uhr vor Stößen und Kratzern, während die wasserdichte Eigenschaft von bis zu 100 Metern Tiefe sicherstellt, dass die Uhr auch bei Wasserkontakt keinen Schaden nimmt. Somit ist sie perfekt für alle Arten von Outdoor-Aktivitäten geeignet – von morgendlichen Läufen bis hin zu ausgedehnten Wanderungen und Bergtouren.</p><p class=\"justify\">Mit ihrer Vielzahl von Funktionen und ihrem hochwertigen Design ist die Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr die ideale Wahl für alle, die ihre Outdoor-Erlebnisse mit einer leistungsstarken und zuverlässigen Uhr bereichern möchten. Sie bietet nicht nur nützliche Funktionen, um Ihnen bei Ihren Abenteuern zu helfen, sondern sieht auch stilvoll aus und ist äußerst langlebig, sodass Sie viele Jahre Freude daran haben werden.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637209977",
-        "seo": {
-          "texts": [
-            {
-              "title": "Steiner SAFARI ULTRASHARP 10 X 26 Fernglas",
-              "text": "<p class=\"justify\">Das Steiner SAFARI ULTRASHARP 10 X 26 Fernglas gehört zur renommierten Marke Steiner und ist unter der SKU 5637209977 erhältlich. Dieses hochwertige Fernglas eignet sich perfekt für Naturliebhaber, Outdoor-Sportler und alle, die gerne einen genauen Blick in die Ferne werfen möchten. Die Farbe des Fernglases ist neutral gehalten, sodass es sich leicht mit jeder Ausrüstung kombinieren lässt.</p><p class=\"justify\">Die Kategorien, in denen Sie das Steiner SAFARI ULTRASHARP 10 X 26 Fernglas finden, sind unter anderem: Start, Ausrüstung, Orientierung, Optik und Uhren, Ferngläser und Spektive und SAFARI ULTRASHARP 10 X 26. Die dazugehörigen Kategorien-Schlüssel lauten: start, ausrüstung, orientierung, optik und uhren, ferngläser und spektive und safari ultrasharp 10 x 26. Der Link-Titel des Produkts lautet: Steiner SAFARI ULTRASHARP 10 X 26 Fernglas.</p><p class=\"justify\">Ein Bild des Fernglases finden Sie unter: https://media.globetrotter.de/detail/5637209977_d_safari_ultrasharp_10_x_26_steiner_24.jpg. Die lokale Datei des Produktbildes trägt den Namen: steiner-safari-ultrasharp-10-x-26-fernglas-steiner-5637209977.jpg. Das Steiner SAFARI ULTRASHARP 10 X 26 Fernglas liegt preislich bei 148,95 Euro.</p><p class=\"justify\">Insgesamt wurde das Fernglas bereits in 385 Rezensionen bewertet und erhielt durchweg 5 Sterne. Das verspricht höchste Qualität und Zufriedenheit der Kunden. Die herausragende Leistung des Steiner SAFARI ULTRASHARP 10 X 26 Fernglases zeigt sich unter anderem in der hervorragenden optischen Qualität und der robusten Verarbeitung. Wer auf der Suche nach einem zuverlässigen und hochwertigen Fernglas ist, sollte dieses Modell von Steiner ins Auge fassen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637670335",
-        "seo": {
-          "texts": [
-            {
-              "title": "Garmin FENIX 6 SAPPHIRE TITANIUM 47 MM Smartwatch: Hochwertige und funktionale Technologie",
-              "text": "<p class=\"justify\">Die Garmin FENIX 6 SAPPHIRE TITANIUM 47 MM Smartwatch ist ein beeindruckendes High-End-Gerät von der namhaften Marke Garmin. Mit seinem schlanken grau-silbernen Design und hochwertigen Materialien ist diese Smartwatch der perfekte Begleiter für Outdoor-Enthusiasten, Sportler und Technikliebhaber. Die hohe Produktqualität und Funktionalität spiegeln sich auch in der hohen Kundenzufriedenheit wider, denn dieses Modell hat eine durchschnittliche Bewertung von 5 Sternen bei 195 Rezensionen.</p><p class=\"justify\">Als Teil der Garmin FENIX-Reihe bietet diese Smartwatch zahlreiche nützliche Funktionen wie Herzfrequenzmessung, GPS-Tracking und umfangreiche Sport- und Fitnessfunktionen. Die 47mm-Titanium-Gehäusegröße sorgt für hohe Strapazierfähigkeit und garantiert gleichzeitig einen angenehmen Tragekomfort. Das kratzfeste Saphirglas schützt vor Beschädigungen und erhöht so die Langlebigkeit des Produkts.</p><p class=\"justify\">Die FENIX 6 SAPPHIRE TITANIUM 47 MM gehört zur Kategorie der Orientierung, Optik und Uhren und stellt so ein unverzichtbares Werkzeug für Outdoor-Aktivitäten und Erkundungen dar. Die Smartwatch verfügt über eine Vielzahl von Navigationsfeatures, die es ermöglichen, stets auf dem richtigen Weg zu bleiben und sich in unbekanntem Terrain zurechtzufinden.</p><p class=\"justify\">Darüber hinaus ist diese Smartwatch mit einer Vielzahl von anderen Garmin-Geräten kompatibel, was die Integration in bereits vorhandene Gerätesysteme erleichtert. Der Preis von 679,96 Euro unterstreicht die Premium-Qualität und vielseitige Einsetzbarkeit dieser smarten Uhr.</p><p class=\"justify\">Zusammenfassend ist die Garmin FENIX 6 SAPPHIRE TITANIUM 47 MM Smartwatch ein hochwertiges und leistungsstarkes Gerät, das sowohl ästhetisch ansprechend als auch funktional überzeugt. Wer auf der Suche nach einer zuverlässigen, modernen und robusten Smartwatch ist, sollte sich dieses beeindruckende Modell unbedingt genauer ansehen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE ",
-    "defaultMetaDescription": "Top $KATEGORIE Produkte in unserem Shop für Outdoor Elektronik kaufen. Produkte sind sofort verfügbar. Top Preise und Top Qualität.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5637245059",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr",
+                            "text": "<p class=\"justify\">Die Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr ist eine ideale Wahl für Outdoor-Enthusiasten und Abenteurer. Diese innovative Uhr bietet eine Fülle von Funktionen, die speziell entwickelt wurden, um die Anforderungen von Outdoor-Aktivitäten wie Wandern, Bergsteigen und Camping zu erfüllen. Das robuste Design der Uhr, gepaart mit der beeindruckenden Technologie von Casio, macht sie zu einer zuverlässigen Wegbegleiterin für alle Ihre Abenteuer.</p><p class=\"justify\">Die PRG-270-1ER LONGS PEAK ist mit einer Vielzahl nützlicher Funktionen ausgestattet, darunter ein integrierter Kompass, ein Höhenmesser, ein Barometer und ein Thermometer. Diese praktischen Funktionen ermöglichen es Ihnen, Ihren Standort präzise zu bestimmen, die Höhe und den Luftdruck zu messen und die Temperatur in Echtzeit abzulesen, sodass Sie bestens auf alle Eventualitäten vorbereitet sind. Darüber hinaus verfügt die Uhr über eine Solarzellenfunktion, die eine umweltfreundliche und praktische Energieversorgung gewährleistet.</p><p class=\"justify\">Die Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr ist nicht nur funktional, sondern auch äußerst langlebig und widerstandsfähig. Das stoßfeste Gehäuse und das kratzfeste Mineralglas schützen die Uhr vor Stößen und Kratzern, während die wasserdichte Eigenschaft von bis zu 100 Metern Tiefe sicherstellt, dass die Uhr auch bei Wasserkontakt keinen Schaden nimmt. Somit ist sie perfekt für alle Arten von Outdoor-Aktivitäten geeignet – von morgendlichen Läufen bis hin zu ausgedehnten Wanderungen und Bergtouren.</p><p class=\"justify\">Mit ihrer Vielzahl von Funktionen und ihrem hochwertigen Design ist die Casio Pro Trek PRG-270-1ER LONGS PEAK Outdoor Uhr die ideale Wahl für alle, die ihre Outdoor-Erlebnisse mit einer leistungsstarken und zuverlässigen Uhr bereichern möchten. Sie bietet nicht nur nützliche Funktionen, um Ihnen bei Ihren Abenteuern zu helfen, sondern sieht auch stilvoll aus und ist äußerst langlebig, sodass Sie viele Jahre Freude daran haben werden.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637209977",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Steiner SAFARI ULTRASHARP 10 X 26 Fernglas",
+                            "text": "<p class=\"justify\">Das Steiner SAFARI ULTRASHARP 10 X 26 Fernglas gehört zur renommierten Marke Steiner und ist unter der SKU 5637209977 erhältlich. Dieses hochwertige Fernglas eignet sich perfekt für Naturliebhaber, Outdoor-Sportler und alle, die gerne einen genauen Blick in die Ferne werfen möchten. Die Farbe des Fernglases ist neutral gehalten, sodass es sich leicht mit jeder Ausrüstung kombinieren lässt.</p><p class=\"justify\">Die Kategorien, in denen Sie das Steiner SAFARI ULTRASHARP 10 X 26 Fernglas finden, sind unter anderem: Start, Ausrüstung, Orientierung, Optik und Uhren, Ferngläser und Spektive und SAFARI ULTRASHARP 10 X 26. Die dazugehörigen Kategorien-Schlüssel lauten: start, ausrüstung, orientierung, optik und uhren, ferngläser und spektive und safari ultrasharp 10 x 26. Der Link-Titel des Produkts lautet: Steiner SAFARI ULTRASHARP 10 X 26 Fernglas.</p><p class=\"justify\">Ein Bild des Fernglases finden Sie unter: https://media.globetrotter.de/detail/5637209977_d_safari_ultrasharp_10_x_26_steiner_24.jpg. Die lokale Datei des Produktbildes trägt den Namen: steiner-safari-ultrasharp-10-x-26-fernglas-steiner-5637209977.jpg. Das Steiner SAFARI ULTRASHARP 10 X 26 Fernglas liegt preislich bei 148,95 Euro.</p><p class=\"justify\">Insgesamt wurde das Fernglas bereits in 385 Rezensionen bewertet und erhielt durchweg 5 Sterne. Das verspricht höchste Qualität und Zufriedenheit der Kunden. Die herausragende Leistung des Steiner SAFARI ULTRASHARP 10 X 26 Fernglases zeigt sich unter anderem in der hervorragenden optischen Qualität und der robusten Verarbeitung. Wer auf der Suche nach einem zuverlässigen und hochwertigen Fernglas ist, sollte dieses Modell von Steiner ins Auge fassen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637670335",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Garmin FENIX 6 SAPPHIRE TITANIUM 47 MM Smartwatch: Hochwertige und funktionale Technologie",
+                            "text": "<p class=\"justify\">Die Garmin FENIX 6 SAPPHIRE TITANIUM 47 MM Smartwatch ist ein beeindruckendes High-End-Gerät von der namhaften Marke Garmin. Mit seinem schlanken grau-silbernen Design und hochwertigen Materialien ist diese Smartwatch der perfekte Begleiter für Outdoor-Enthusiasten, Sportler und Technikliebhaber. Die hohe Produktqualität und Funktionalität spiegeln sich auch in der hohen Kundenzufriedenheit wider, denn dieses Modell hat eine durchschnittliche Bewertung von 5 Sternen bei 195 Rezensionen.</p><p class=\"justify\">Als Teil der Garmin FENIX-Reihe bietet diese Smartwatch zahlreiche nützliche Funktionen wie Herzfrequenzmessung, GPS-Tracking und umfangreiche Sport- und Fitnessfunktionen. Die 47mm-Titanium-Gehäusegröße sorgt für hohe Strapazierfähigkeit und garantiert gleichzeitig einen angenehmen Tragekomfort. Das kratzfeste Saphirglas schützt vor Beschädigungen und erhöht so die Langlebigkeit des Produkts.</p><p class=\"justify\">Die FENIX 6 SAPPHIRE TITANIUM 47 MM gehört zur Kategorie der Orientierung, Optik und Uhren und stellt so ein unverzichtbares Werkzeug für Outdoor-Aktivitäten und Erkundungen dar. Die Smartwatch verfügt über eine Vielzahl von Navigationsfeatures, die es ermöglichen, stets auf dem richtigen Weg zu bleiben und sich in unbekanntem Terrain zurechtzufinden.</p><p class=\"justify\">Darüber hinaus ist diese Smartwatch mit einer Vielzahl von anderen Garmin-Geräten kompatibel, was die Integration in bereits vorhandene Gerätesysteme erleichtert. Der Preis von 679,96 Euro unterstreicht die Premium-Qualität und vielseitige Einsetzbarkeit dieser smarten Uhr.</p><p class=\"justify\">Zusammenfassend ist die Garmin FENIX 6 SAPPHIRE TITANIUM 47 MM Smartwatch ein hochwertiges und leistungsstarkes Gerät, das sowohl ästhetisch ansprechend als auch funktional überzeugt. Wer auf der Suche nach einer zuverlässigen, modernen und robusten Smartwatch ist, sollte sich dieses beeindruckende Modell unbedingt genauer ansehen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE ",
+        "defaultMetaDescription": "Top $KATEGORIE Produkte in unserem Shop für Outdoor Elektronik kaufen. Produkte sind sofort verfügbar. Top Preise und Top Qualität.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER günstig kaufen",
+        "defaultMetaDescription": "Outdoor Elektronik Produkte von $HERSTELLER günstig bei uns im Store bestellen. Top Qualität und beste Preise im Netz.",
+        "defaultRobots": "",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Outdoor Elektronik",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Outdoor Elektronik Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Outdoor Elektronik Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Outdoor Elektronik Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Produkte von $HERSTELLER günstig kaufen",
-    "defaultMetaDescription": "Outdoor Elektronik Produkte von $HERSTELLER günstig bei uns im Store bestellen. Top Qualität und beste Preise im Netz.",
-    "defaultRobots": "",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Outdoor Elektronik",
-      "publish": true
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Outdoor Elektronik Shop",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Outdoor Elektronik Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Outdoor Elektronik Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
