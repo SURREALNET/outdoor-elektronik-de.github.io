@@ -11,9 +11,6 @@
  */
 
 
-/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
-
-
 /*!
  * The buffer module from node.js, for the browser.
  *
@@ -35,3 +32,6 @@
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
+
+
+/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
